@@ -1,0 +1,21 @@
+{
+  "name": "mean",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Rafael Hespanhol <rafael_hespanhol@hotmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/meteorabr/means",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
